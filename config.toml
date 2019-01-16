@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://linussioland.github.io"
+baseurl = "https://linussioland.github.io/"
 
 # Title of your site
 title = "Linus Siöland"
@@ -60,7 +60,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Antwerp", url = "http://www.centrumvoorsociaalbeleid.be/index.php?q=eng/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "profilepic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "linus.sioland@uantwerpen.be"
