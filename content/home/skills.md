@@ -13,9 +13,9 @@ subtitle = ""
 weight = 7
 
 # Showcase personal skills or business features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # Available icon packs and icons:
 # * fas - Font Awesome standard icons (see https://fontawesome.com/icons)
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
@@ -44,5 +44,9 @@ weight = 7
   icon_pack = "fas"
   name = "Git and Github"
   description = "Beginner"
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> 2e7d287db4c6f61c4847f3d53ddeefaf3e19a96a
 +++
