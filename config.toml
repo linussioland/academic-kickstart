@@ -64,7 +64,7 @@ enableGitInfo = false
 >>>>>>> 2e7d287db4c6f61c4847f3d53ddeefaf3e19a96a
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "profilepic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "linus.sioland@uantwerpen.be"
