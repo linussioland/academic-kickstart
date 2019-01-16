@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Comparative social policy",
+    "Housing policy",
+    "Inequality, poverty and its prevention",
+    "Institutionalism",
+    "Microsimulation",
+    "Minimum income protection indicators",
+    "Welfare state development"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Socio-Economic Sciences"
+  institution = "University of Antwerp"
+  year = "2017 – Ongoing"
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc Comparative Social Policy"
+  institution = "University of Oxford"
+  year = "2014 – 2015"
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "MA (Hons.) Politics"
+  institution = "University of Glasgow"
+  year = "2010 – 2014"
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a researcher and PhD candidate at the Herman Deleeck Centre for Social Policy of the University of Antwerp, specialising in analysis of minimum income protection, chiefly using the European microsimulation model EUROMOD. Other research interests and activities include housing policy, poverty and inequality, political economy and its influence on social policy, and universal basic income.
