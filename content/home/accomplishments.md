@@ -17,30 +17,22 @@ date_format = "Jan 2006"
 #   Add/remove as many `[[item]]` blocks below as you like.
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+#   Begin/end multi-line descriptions with 3 quotes.
 
 [[item]]
-  title = "Neural Networks and Deep Learning"
-  organization = "Coursera"
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  title = "Essential Tools for R"
+  organization = "Flames (Flanders Training Network for Methodology and Statistics)"
+  certificate_url = ""
+  date_start = "2018-06-18"
+  date_end = "2016-06-21"
+  description = """Intensive introductory course to R within the scope of Flames, the statistical training and methodology network of Flemish universities. Through this gained grounding knowledge of the R language, common packages, data manipulation and visualisation, which I now use regularly in daily work."""
 
 [[item]]
-  title = "Blockchain Fundamentals"
-  organization = "edX"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = ""
-  
-[[item]]
-  title = "Intro to Python"
-  organization = "DataCamp"
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  title = "EUROMOD-HHoT Winter School"
+  organization = "EUROMOD"
+  certificate_url = ""
+  date_start = "2018-01-16"
+  date_end = "2018-01-18"
+  description = """Annual winter school introducing EUROMOD, the European tax-benefit microsimulation model, to new researchers. The course also included instruction in the recently developed Hypothetical Household Simulation Tool (HHoT), which has subsequently been used in the update of the CSB-MIPI dataset of comparative minimum income protection."""
 
 +++
