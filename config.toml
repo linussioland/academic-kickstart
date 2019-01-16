@@ -66,19 +66,8 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "linus.sioland@uantwerpen.be"
   address = "Herman Deleeck Centre for Social Policy, UA Faculty of Social Sciences, Sint-Jacobsstraat 2, 2000 Antwerpen"
-  office_hours = ""
   phone = ""
   skype = ""
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
-
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
-
-  # Enter an optional link for booking appointments (e.g. calendly.com).
-  appointment_url = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
