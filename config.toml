@@ -58,10 +58,6 @@ enableGitInfo = false
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "University of Antwerp", url = "http://www.centrumvoorsociaalbeleid.be/index.php?q=eng/" } ]
-<<<<<<< HEAD
-=======
-
->>>>>>> 2e7d287db4c6f61c4847f3d53ddeefaf3e19a96a
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -78,10 +74,6 @@ enableGitInfo = false
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
-=======
-  phone = ""
-  skype = ""
->>>>>>> 2e7d287db4c6f61c4847f3d53ddeefaf3e19a96a
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.

@@ -44,9 +44,4 @@ weight = 7
   icon_pack = "fas"
   name = "Git and Github"
   description = "Beginner"
-<<<<<<< HEAD
-  
-=======
-
->>>>>>> 2e7d287db4c6f61c4847f3d53ddeefaf3e19a96a
 +++

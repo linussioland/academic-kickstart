@@ -34,11 +34,7 @@ weight = 5
   course = "MA (Hons.) Politics"
   institution = "University of Glasgow"
   year = "2010 – 2014"
-<<<<<<< HEAD
- 
-=======
 
->>>>>>> 2e7d287db4c6f61c4847f3d53ddeefaf3e19a96a
 +++
 
 # Biography
